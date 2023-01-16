@@ -258,7 +258,7 @@ const Home: NextPage = () => {
               ) ? (
                 <div>
                   <h2>
-                    This drop is not ready to be minted yet. (No claim condition
+                    Public mint not open yet! (No claim condition
                     set)
                   </h2>
                 </div>
